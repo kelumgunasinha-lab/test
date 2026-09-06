@@ -1,0 +1,16 @@
+# Dependencies
+frontend/node_modules/
+backend/target/
+
+# Build outputs
+frontend/dist/
+backend/target/
+
+# Environment and Logs
+*.log
+.env
+
+# IDE & OS files
+.idea/
+.vscode/
+.DS_Store
